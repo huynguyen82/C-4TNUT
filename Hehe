@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int i=1,s=1;n
+cont<<"n=";cin>>n;
+for(i=1;i<=n;i++)s=s+1
+cout<<"KQ S="<<S;
+return 0;
+}
